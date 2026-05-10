@@ -3,6 +3,7 @@
 
 Game Link: https://drive.google.com/drive/folders/1cqxrVKHxEey0oDkGrOMaq-vC0iF8YYJY?usp=drive_link
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6f0362b7-8b85-495b-b69d-149c7bbb82df" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/de284303-83a6-499b-a2e5-fb4474a176fa" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/934a7149-76a7-4101-86cb-fad2a2a6d0ff" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f966fa90-5d8b-4e0a-b65f-3d3c705b7d55" />
