@@ -1,5 +1,5 @@
 # Somnium-Unity
-3D survival game developed at Aydın Youth Summit Game Jam (3rd Place). Themed around inner struggle, players fight nightmares using power from sentences typed to a mirror. Groq API (NLP) analyzes the text's emotion to procedurally generate weapons and dream environments.
+A 3D game from Aydın Youth Summit Game Jam (3rd Place). Themed around "reflection", players fight nightmares using power from sentences typed to a mirror. Groq API (NLP) analyzes text emotions to procedurally generate weapons and dream environments.
 
 Game Link: https://drive.google.com/drive/folders/1cqxrVKHxEey0oDkGrOMaq-vC0iF8YYJY?usp=drive_link
 
