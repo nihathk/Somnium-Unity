@@ -11,3 +11,6 @@ Game Link: https://drive.google.com/drive/folders/1cqxrVKHxEey0oDkGrOMaq-vC0iF8Y
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2445f156-7f68-42a2-a3fb-cd3b3efa6933" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/29f745ee-554d-4edf-baea-d2b98f0a73b3" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/444830ee-d547-4b0b-8fc8-edb3775b050b" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ae28f957-3a24-491b-ab24-ecd770851dd4" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/172c0fcf-3d93-4f73-9452-06e0e2c9b138" />
+
