@@ -17,7 +17,7 @@ The game blends fast-paced wave survival with a unique Generative AI / NLP twist
 5. **Return to Sleep:** Go back to your bed `[E]` to re-enter the dream. The emotion detected from your sentence directly alters your stats for the next wave—affecting your **movement speed, jump height, damage output**, and the weapons you use. 
 6. **Survive the Waves:** Every time you go back to sleep, the "Dream Layer" (Wave) increases, the environments shift procedurally, and the enemies become much harder.
 
-![Gameplay Mechanics](<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/934a7149-76a7-4101-86cb-fad2a2a6d0ff" />)
+![Gameplay Mechanics]<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/934a7149-76a7-4101-86cb-fad2a2a6d0ff" />
 
 ## ✨ Key Features
 
